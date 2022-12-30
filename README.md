@@ -1,7 +1,7 @@
 # automation testing saudemo with selenium-java
 
 
-This repo is the case study source code for course UI Automation with Java in myskill.id.
+This repo is the case study source code for course UI Automation with selenium Java in myskill.id.
 
 link website testing
 ```
