@@ -1,6 +1,5 @@
-# testing-saudemo-selenium-java
+# automation testing saudemo with selenium-java
 
-# MySkill-UI-Automation-java
 
 This repo is the case study source code for course UI Automation with Java in myskill.id.
 
@@ -12,9 +11,9 @@ https://www.saucedemo.com/
 How to run
 1. Clone this repo
 ```
-git clone https://github.com/alvintrianto/MySkill-UI-Automation.git
+git clone https://github.com/RioAdistya/testing-saudemo-selenium-java.git
 ```
 2. Open this file with Intellij IDE
 3. Install depedencies in the maven pom.xml
-4. Open src/test/java/runner/RunTestJava
+4. Open src/test/java/login.Java
 5. Run with debugger in Intellij
