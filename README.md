@@ -18,6 +18,7 @@ git clone https://github.com/RioAdistya/testing-saudemo-selenium-java.git
 4. Open src/test/java/login.Java
 5. Run with debugger in Intellij
 
-note
+note:
+```
 Tambah chrome driver pada mySkill-live-SeleniumTest\src\main\resources\drivers\chromedriver.exe : https://chromedriver.chromium.org/downloads (sesuaikan dengan
 versi chrome yang terinstall)
